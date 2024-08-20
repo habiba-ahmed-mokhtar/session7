@@ -1,0 +1,27 @@
+body {
+  background-color: #e0f7fa;
+  margin: 0;
+  padding: 0;
+}
+
+table {
+  width: 80%;
+  margin: 20px auto;
+
+  background-color: #f5f5f5;
+  font-size: 18px;
+}
+
+th,
+td {
+  border: 1px solid #ddd;
+  padding: 10px;
+  text-align: left;
+}
+
+caption {
+  text-align: center;
+  color: #4caf50;
+  font-size: 24px;
+  margin-bottom: 10px;
+}
